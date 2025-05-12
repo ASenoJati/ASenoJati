@@ -7,8 +7,6 @@
 
 - 🏫 Student at SMK Raden Umar Said Kudus [SMK RUS](https://smkrus.sch.id)
 
-- 🌱 I’m currently learning **DBS Foundation Coding Camp 2024 Cohort**
-
 - ⚙️ Software Engineer and Game Development Major [PPLG](https://rplrus.com/)
 
 - 💬 Ask me about **React.JS, Next.JS**
